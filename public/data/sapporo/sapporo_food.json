@@ -1,0 +1,16 @@
+[
+    {
+        "name": "스시잔마이 삿포로",
+        "category": "일식",
+        "location": "삿포로 중심가",
+        "rating": 4.8,
+        "description": "신선한 스시와 친절한 서비스로 유명한 식당."
+    },
+    {
+        "name": "삿포로 라멘 쇼류",
+        "category": "라멘",
+        "location": "스스키노 지역",
+        "rating": 4.5,
+        "description": "삿포로의 명물 된장 라멘 전문점."
+    }
+]

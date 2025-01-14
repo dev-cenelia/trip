@@ -1,0 +1,26 @@
+[
+  {
+    "image":" ./images/m3_multiple.png",
+    "name":"루메나 M3 멀티플 LED",
+    "text":"세상에 없던 랜턴",
+    "price":"59,000",
+    "id":"001"
+  },
+
+  {
+    "image":"./images/spaceon.png",
+    "name":"루메나 SPACE ON 테이블램프",
+    "text":"놓는 순간 갤러리가 되는 아트 오브제",
+    "price":"99,000",
+    "id":"002"
+  },
+
+  {
+    "image":"./images/theclassic.png",
+    "name":"루메나 THE CLASSIC 포터블 램프",
+    "text":"자연과 하나되는 클래식 감성 랜턴",
+    "price":"129,000",
+    "id":"003"
+  }
+  
+]
