@@ -5,7 +5,8 @@
         "location": "오타루 시",
         "rating": 4.7,
         "description": "오타루의 대표적인 명소로, 아름다운 운하를 따라 산책을 즐길 수 있습니다.",
-        "google_url": "https://www.google.com/maps/place/오타루+운하"
+        "google_url": "https://www.google.com/maps/place/오타루+운하",
+        "image_url": "./img/trip/00_otaru.jpg"
     },
     {
         "name": "후라노 꽃밭",
@@ -13,7 +14,8 @@
         "location": "후라노",
         "rating": 4.6,
         "description": "여름에 꽃들이 만개하는 장관을 자랑하는 인기 있는 여행지.",
-        "google_url": "https://www.google.com/maps/place/후라노+꽃밭"
+        "google_url": "https://www.google.com/maps/place/후라노+꽃밭",
+        "image_url": "./img/trip/01_hurano_flower.jpg"
     },
     {
         "name": "다카시마",
@@ -21,7 +23,8 @@
         "location": "호쿠리쿠 지역",
         "rating": 4.8,
         "description": "기암괴석과 독특한 풍경을 즐길 수 있는 조용한 섬.",
-        "google_url": "https://www.google.com/maps/place/다카시마"
+        "google_url": "https://www.google.com/maps/place/다카시마",
+        "image_url": "./img/trip/02_dakasima.jpg"
     },
     {
         "name": "시코쓰호수",
@@ -29,7 +32,8 @@
         "location": "치세상",
         "rating": 4.9,
         "description": "맑은 물과 아름다운 산풍경이 어우러진 호수.",
-        "google_url": "https://www.google.com/maps/place/시코쓰호수"
+        "google_url": "https://www.google.com/maps/place/시코쓰호수",
+        "image_url": "./img/trip/03_sikos.jpg"
     },
     {
         "name": "홋카이도 대극장",
@@ -37,6 +41,7 @@
         "location": "삿포로",
         "rating": 4.7,
         "description": "홋카이도의 다양한 문화 행사와 공연을 즐길 수 있는 공간.",
-        "google_url": "https://www.google.com/maps/place/홋카이도+대극장"
+        "google_url": "https://www.google.com/maps/place/홋카이도+대극장",
+        "image_url": "./img/trip/04_hokaido.jpg"
     }
 ]

@@ -1,0 +1,16 @@
+.titleWrap{
+    width: 100%;
+    height: 700px;
+    position: relative;
+}
+.helloComent{
+    border: none;
+    background: none;
+    font-size: 60px;
+    font-family: "Noto Serif JP";
+    font-weight: 700;
+    position: absolute;
+    left:0px;
+    bottom: 0px;
+    text-align: left;
+}
