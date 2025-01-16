@@ -1,4 +1,5 @@
 import './common/reset.css';
+import './common/common.css'
 import './App.css';
 import Header from './component/header/Header';
 import { BrowserRouter, Route, Routes } from 'react-router';

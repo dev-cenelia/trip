@@ -1,0 +1,93 @@
+.cardWrap{
+    width: 100%;
+}
+.cardList{
+    width: 100%;
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:10px
+}
+.cardItem{
+    width: 100%;
+    height: auto;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    font-size: 14px;
+    border-radius: 16px;
+    box-sizing: border-box;
+    border: 1px solid #fefefe;
+    overflow: hidden;
+}
+
+.cardItem>div{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start; 
+}
+
+.cardImg {
+    width: 100%;
+    height: 50%;
+    overflow: hidden;
+}
+.cardImg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.cardInfo{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.cardInfoTxt{
+    display: flex;
+    flex-direction: column;
+    gap:8px;
+}
+.contName{
+    font-size: 16px;
+    font-weight: 700;
+}
+.contRating{
+    font-size: 12px;
+    margin-left: 3px;
+    font-weight: 400;
+    color: #333;
+}
+.contDesc{
+    font-weight: 500;
+    word-break: keep-all;
+    line-height: 1.2;
+    color: #444;
+}
+.contLocation{
+    font-size: 13px;
+}
+.actionBtn{
+    display: flex;
+    justify-content: flex-end;
+}
+.actionBtn a{
+    font-weight: 700;
+    max-width: 60px;
+    border-radius: 30px;
+    text-align: center;
+    display: inline-block;
+    padding:8px 10px;
+    border: 1px solid #b20024;
+    color: #b20024;
+    transition: background-color 0.3s ease-in;
+}
+.actionBtn a:hover{
+    color: #fff;
+    background-color: #b20024;
+    border: 1px solid #fff;
+}
+
