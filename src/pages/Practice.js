@@ -2,6 +2,7 @@ import React from 'react'
 import Product from '../component/product/Product'
 import Product2 from '../component/product/Product2'
 import Product3 from '../component/product/Product3'
+import Product4 from '../component/product/Product4'
 
 export default function Practice() {
   const productWrap ={
@@ -16,9 +17,10 @@ export default function Practice() {
   }
   return (
     <div style={productWrap}>
-        <Product/>
-        <Product2/>
-        <Product3/>
+      <Product4/>
+      <Product/>
+      <Product2/>
+      <Product3/>
     </div>
   )
 }
